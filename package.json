@@ -1,0 +1,14 @@
+{
+  "name": "faraway_solar_system",
+  "version": "1.0.0",
+  "description": "simple yet fun",
+  "main": "farAwayGalaxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Gonzlez",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^6.0.3"
+  }
+}
