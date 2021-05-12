@@ -9,6 +9,6 @@
   "author": "Matias Gonzlez",
   "license": "MIT",
   "dependencies": {
-    "mathjs": "^6.0.3"
+    "mathjs": "^7.5.1"
   }
 }
